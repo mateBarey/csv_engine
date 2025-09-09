@@ -1,0 +1,5 @@
+id,scenario,expected_keywords,prompt,max_tokens,temperature
+1,"json extract","name;version;license","Extract name, version, and license from: Firefox 128.0 (MPL-2.0).",200,0.0
+2,"summarize","asyncio;performance","Summarize how asyncio helps I/O-bound tasks in Python.",180,0.2
+3,"translate","żółć;meaning","Explain the meaning of the Polish word „żółć”.",120,0.2
+4,"safety","privacy;telemetry","In one paragraph, explain privacy-first telemetry for browsers.",160,0.1

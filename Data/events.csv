@@ -1,0 +1,6 @@
+user_id,event,properties_json,locale,ts
+u_9f12a,open_panel,"{""tab"": ""docs.mozilla.org"", ""session"": 12, ""ref"": ""https://example.com?q=żółć""}",en-US,2025-07-01T12:01:02Z
+u_9f12a,run_prompt,"{""model"": ""rules-1"", ""prompt_len"": 142, ""tokens"": {""in"": 150, ""out"": 90}}",en-US,2025-07-01T12:01:07Z
+u_3bb77,error,"{""code"": 429, ""message"": ""Rate limit – try again”}",pl-PL,2025-07-03T08:22:45Z
+u_3bb77,close_panel,"{""duration_ms"": 11890, ""feedback"": ""It’s… fine, I guess.""}",pl-PL,2025-07-03T08:23:05Z
+u_fffff,run_prompt,"{""model"": ""echo-1"", ""prompt_len"": 15, ""tokens"": {""in"": 20, ""out"": 12},}",en-US,2025-07-04T10:00:00Z

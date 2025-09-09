@@ -1,0 +1,10 @@
+id,title,category,tags,body,created_at
+1,"Résumé booster","productivity","resume,careers","Give me a concise résumé summary for a backend engineer focused on asyncio, I/O, and CPython internals.",2024-11-02T13:22:04Z
+2,"Café review ☕","fun","food,reviews","Write a playful review of ""Le Café, Inc."" located at 12, Rue des Arts.",2025-01-18T08:01:59Z
+3,"Data-cleaner","utilities","csv,cleaning","Normalize weird “smart quotes”, trim whitespace, and collapse multiple spaces. Also handle emoji 👍.",2025-03-03T17:40:10Z
+4,"LLM-prompt: JSON extract","devtools","llm,json","Extract entities as JSON. Fields: name, version, license. If uncertain, return nulls.",2024-12-10T21:05:31Z
+5,"Split, but badly","utilities","csv","This row has an extra, dangling field",2025-02-14T10:00:00Z,EXTRA
+6,"Multiline note","notes","writing","Line one.
+Line two, with a comma.
+""Quoted line"", with ""quotes"".",2025-05-22T09:09:09Z
+7,"Polish diacritics","i18n","search","Wyszukaj słowo „żółć” i jego warianty bez znaków diakrytycznych.",2025-06-01T11:11:11Z

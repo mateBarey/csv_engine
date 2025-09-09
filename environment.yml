@@ -1,0 +1,10 @@
+name: myproject   # name is optional when you use --prefix
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - polars
+  - jupyter
